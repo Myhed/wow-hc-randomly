@@ -1,0 +1,36 @@
+{
+    "classes": [
+        {
+            "name": "mage",
+            "path": "/assets/images/classes/mage.png"
+        },
+        {
+            "name":"warlock",
+            "path": "/assets/images/classes/warlock.png"
+        },
+        {
+            "name":"hunter",
+            "path": "/assets/images/classes/hunter.png"
+        },
+        {
+            "name":"priest",
+            "path": "/assets/images/classes/priest.png"
+        },
+        {
+            "name":"warrior",
+            "path": "/assets/images/classes/warrior.png"
+        },{
+            "name":"paladin",
+            "path": "/assets/images/classes/paladin.png"
+        },{
+            "name":"rogue",
+            "path": "/assets/images/classes/Rogue.png"
+        },{
+            "name":"shaman",
+            "path": "/assets/images/classes/shaman.png"
+        },{
+            "name":"druid",
+            "path": "/assets/images/classes/druid.png"
+        }
+    ]
+}
